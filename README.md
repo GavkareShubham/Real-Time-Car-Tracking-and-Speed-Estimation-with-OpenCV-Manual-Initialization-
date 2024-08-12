@@ -1,0 +1,2 @@
+# Real-Time-Car-Tracking-and-Speed-Estimation-with-OpenCV-Manual-Initialization-
+This OpenCV program tracks cars in a video and estimates their speeds. It starts by capturing video frames and allowing manual selection of car bounding boxes. Using KCF trackers, it updates car positions, calculates speed based on displacement, and displays it on the frame. The annotated frames are shown until a key is pressed.
